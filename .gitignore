@@ -1,5 +1,7 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
+game_search
+RELATORIO_TECNICO
 *.py[cod]
 *$py.class
 
